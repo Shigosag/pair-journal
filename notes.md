@@ -22,3 +22,6 @@ Compare token bucket vs sliding window counter algorithms.
 ### Session 8: docs: configure health check endpoints
 Implement liveness and readiness probe routes.
 
+### Session 9: docs: document distributed tracing pattern
+Use OpenTelemetry trace IDs propagated across microservices.
+
