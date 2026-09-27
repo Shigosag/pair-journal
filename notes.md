@@ -25,3 +25,6 @@ Implement liveness and readiness probe routes.
 ### Session 9: docs: document distributed tracing pattern
 Use OpenTelemetry trace IDs propagated across microservices.
 
+### Session 10: docs: summarize pair programming workflow
+Document retro findings and pair rotation schedule.
+
