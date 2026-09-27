@@ -13,3 +13,6 @@ Enforce major, minor, and patch increment standards.
 ### Session 5: docs: add code review checklist
 Verify unit test coverage, security boundaries, and edge cases.
 
+### Session 6: docs: setup shared linters and formatters
+Align ESLint and Prettier rules across developer workstations.
+
