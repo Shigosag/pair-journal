@@ -16,3 +16,6 @@ Verify unit test coverage, security boundaries, and edge cases.
 ### Session 6: docs: setup shared linters and formatters
 Align ESLint and Prettier rules across developer workstations.
 
+### Session 7: docs: document rate limiting architectures
+Compare token bucket vs sliding window counter algorithms.
+
