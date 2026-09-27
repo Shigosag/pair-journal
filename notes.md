@@ -10,3 +10,6 @@ Use standard RFC 7807 problem details format for JSON errors.
 ### Session 4: docs: configure semantic versioning rules
 Enforce major, minor, and patch increment standards.
 
+### Session 5: docs: add code review checklist
+Verify unit test coverage, security boundaries, and edge cases.
+
