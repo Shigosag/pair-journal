@@ -7,3 +7,6 @@ Adopt OpenAPI specs for backend-to-frontend communication.
 ### Session 3: docs: establish error handling standard
 Use standard RFC 7807 problem details format for JSON errors.
 
+### Session 4: docs: configure semantic versioning rules
+Enforce major, minor, and patch increment standards.
+
