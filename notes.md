@@ -19,3 +19,6 @@ Align ESLint and Prettier rules across developer workstations.
 ### Session 7: docs: document rate limiting architectures
 Compare token bucket vs sliding window counter algorithms.
 
+### Session 8: docs: configure health check endpoints
+Implement liveness and readiness probe routes.
+
